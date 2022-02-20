@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @anshik
-- 👀 I’m interested in Game, Android Application, Open Source Programs and Little in Hacking.
+- 👀 I’m interested in Game, Websites, Open Source Programs Development and Little in Hacking.
 - 🌱 I’m currently learning basics.
-- 💞️ I’ll look to collaborate when I will Learned much. 
+- 💞️ I’ll look to collaborate when I will Learned enough. 
 - 📫 How to reach me Email anshikthind@gmail.com
 
 <!---
