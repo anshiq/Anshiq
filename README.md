@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @anshik
 - 👀 I’m interested in Games, Development and Little in Hacking.
 - 📫 Email: anshikthind@gmail.com
+- 🙂 [I stagram](http://instagram.com/anshik_thind)
 
 <!---
 Anshik-Singh/Anshik-Singh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
